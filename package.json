@@ -1,16 +1,19 @@
 {
-  "name": "datetime",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "@bristom/commitlint-config": "^1.0.2",
-    "@commitlint/cli": "^12.1.4",
-    "husky": "^4.3.5",
-    "jest": "^27.0.6",
-    "prettier": "^2.3.2"
-  },
-  "scripts": {
-    "test": "jest"
-  }
+	"name": "@bristom/datetime",
+	"version": "1.0.0",
+	"main": "src/DateTime.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@bristom/commitlint-config": "^1.0.2",
+		"@commitlint/cli": "^12.1.4",
+		"husky": "^4.3.5",
+		"jest": "^27.0.6",
+		"prettier": "^2.3.2"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"description": "Package to convert Unix Timestamps more reliably",
+	"repository": "https://github.com/Bristom/datetime.git",
+	"author": "luk3skyw4lker <lucashenriqueblemos@gmail.com>"
 }
