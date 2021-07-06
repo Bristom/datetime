@@ -1,2 +1,5 @@
 jest.config.js
 __tests__
+commitlint.config.js
+.huskyrc
+.gitignore
