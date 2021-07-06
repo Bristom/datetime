@@ -1,0 +1,16 @@
+{
+  "name": "datetime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@bristom/commitlint-config": "^1.0.2",
+    "@commitlint/cli": "^12.1.4",
+    "husky": "^4.3.5",
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
