@@ -68,4 +68,4 @@ We have plans to implement support for years before 2001 and 12 hours format. Bu
 
 Any bug is also open to resolution if you know how, if you don't, open a issue and we will do what we can :)
 
-Written and maintened by [luk3skyw4lker](https://github.com/luk3skyw4lker)
+Written by [luk3skyw4lker](https://github.com/luk3skyw4lker) and [jPerotto](https://github.com/jPerotto) based on [jPerotto/PCF2129-Library](https://github.com/jPerotto/PCF2129-Library)
