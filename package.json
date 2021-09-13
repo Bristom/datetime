@@ -1,6 +1,6 @@
 {
 	"name": "@bristom/datetime",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"main": "src/DateTime.js",
 	"license": "MIT",
 	"devDependencies": {
